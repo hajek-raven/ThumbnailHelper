@@ -1,5 +1,5 @@
 {
-	"name": "kollarovic/thumbnail",
+	"name": "hajek-raven/thumbnail-helper",
 	"description" : "Generating image thumbnails",
 	"keywords": ["thumbnail", "nette", "latte", "image"],
 	"license": "MIT",
